@@ -21,6 +21,7 @@
 <img width="1710" height="1107" alt="Screenshot 2026-07-22 at 12 54 35 PM" src="https://github.com/user-attachments/assets/e4079913-575b-4475-a11c-f838e916b0ff" />
 <img width="1710" height="1107" alt="Screenshot 2026-07-22 at 12 54 43 PM" src="https://github.com/user-attachments/assets/8bfeec04-76b8-4a16-8e9c-ef2904b36a46" />
 <img width="1710" height="1107" alt="Screenshot 2026-07-22 at 12 55 41 PM" src="https://github.com/user-attachments/assets/93270aa4-1557-47c1-835e-c0cb123f602e" />
+<img width="1710" height="1107" alt="Screenshot 2026-07-22 at 12 55 48 PM" src="https://github.com/user-attachments/assets/cb805a22-c5c6-4d69-a047-766b86158937" />
 
 
 
