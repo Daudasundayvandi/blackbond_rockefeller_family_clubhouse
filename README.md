@@ -68,6 +68,7 @@
 <img width="1710" height="1107" alt="Screenshot 2026-07-23 at 10 44 09 AM" src="https://github.com/user-attachments/assets/cb762b85-b02a-4ebb-bf54-90edec0b77ec" />
 <img width="1710" height="1107" alt="Screenshot 2026-07-23 at 10 44 15 AM" src="https://github.com/user-attachments/assets/24661311-474a-489a-a4b7-9cbeb01bc298" />
 <img width="1710" height="1107" alt="Screenshot 2026-07-23 at 10 44 23 AM" src="https://github.com/user-attachments/assets/023777b7-60b2-4b0e-ba06-dc4d969dd012" />
+<img width="1710" height="1107" alt="Screenshot 2026-07-23 at 10 44 30 AM" src="https://github.com/user-attachments/assets/a09d66c0-b3fb-48aa-a452-50bffd8f8aec" />
 
 
 
